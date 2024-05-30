@@ -1,45 +1,32 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
+    "name": "Faliti Agustina",
+    "label": "--------------",
     "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
+    "email": "agusfaliti@gmail.com",
+    "phone": "+54 261 305 3370",
     "url": "https://midu.dev",
     "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
     "location": {
-      "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
+      "address": "Godoy Cruz",
+      "city": "Mendoza",
       "countryCode": "ES",
-      "region": "España"
+      "region": "Argentina"
     },
     "profiles": [
       {
         "network": "LinkedIn",
         "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
-      },
-      {
-        "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "url": "https://linkedin.com/in/agustina-faliti"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
-      "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "name": "Otakuma",
+      "position": "Productora",
+      "startDate": "2023/10/8",
+      "summary": "Llevando a cabo un evento que pronto se espera la segunda edición. Una colaboracion con gente de diferentes rubros como k-pop y anime",
       "highlights": [
         "Started the company"
       ]
@@ -51,16 +38,6 @@
       "startDate": "2016-06-01",
       "endDate": "2022-09-01",
       "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
       "highlights": [
         "Started the company"
       ]
@@ -78,23 +55,70 @@
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
+    "institution": "DAD - Departamento de Aplicacion Docente",
+    "area": "Orientacion en Ciencias Sociales y Humanidades",
     "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
+    "startDate": "2020-03-06",
+    "endDate": "2024-11-01",
+    "score": "4.0"
+  },
+  {
+    "institution": "Mercado Libre",
+    "area": "CET - Chicas En Tecnología. Conectadas",
+    "studyType": "Curso",
+    "startDate": "2023",
+    "endDate": "2023",
     "score": "4.0",
     "courses": [
-      "DB1101 - Basic SQL"
+      
     ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
+  },
+  {
+    "institution": "Casa del Futuro",
+    "area": "Curso Introducción Diseño Gráfico",
+    "studyType": "Curso",
+    "startDate": "2023",
+    "endDate": "2023",
+    "score": "4.0",
+    "courses": [
+      
+    ]
+  },
+  {
+    "institution": "Mendoza Futura",
+    "area": "Episodio 2, 3 y 4",
+    "studyType": "Curso",
+    "startDate": "2022",
+    "endDate": "2023",
+    "score": "4.0",
+    "courses": [
+      
+    ]
+  },
+  {
+    "institution": "Casa del Futuro",
+    "area": "Curso Fotografía Básica",
+    "studyType": "Curso",
+    "startDate": "2022",
+    "endDate": "2022",
+    "score": "4.0",
+    "courses": [
+      
+    ]
+  },
+  {
+    "institution": "Casa del Futuro",
+    "area": "Curso Introducción a VSC y CSS",
+    "studyType": "Curso",
+    "startDate": "2022",
+    "endDate": "2022",
+    "score": "4.0",
+    "courses": [
+      
+    ]
+  }
+],
+  
   "certificates": [{
     "name": "Certificate",
     "date": "2021-11-07",
